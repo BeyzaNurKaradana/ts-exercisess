@@ -6,7 +6,8 @@
 
 
 // Kodu buraya yazalım...
-let ages = []:number
+/* let ages = []:number */
+let ages: number[] = [];
 
 
 
