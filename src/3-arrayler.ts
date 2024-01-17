@@ -6,7 +6,7 @@
 
 
 // Kodu buraya yazalım...
-
+let ages = []:number
 
 
 
@@ -19,6 +19,8 @@
 
 
 // Kodu buraya yazalım...
+
+let gameBoard: string[][] = [];
 
 
 
